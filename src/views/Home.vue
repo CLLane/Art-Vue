@@ -47,6 +47,9 @@ export default {
 </script>
 <style lang="css">
 
+h1 {
+  margin: none;
+}
 .button {
   padding: .5rem 1rem;
   font-size: 1rem;
