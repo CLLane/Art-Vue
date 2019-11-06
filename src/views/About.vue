@@ -1,5 +1,7 @@
 <template>
   <div class="about">
-    <h1>This website is designed for those that would like to browse through fine art.</h1>
+    <p>This application was created with Vue to consume the Harvard Art Api.</p>
+    <p>You can cycle through images of famous pieces of art.</p>
+    <router-link to="/">Home</router-link>
   </div>
 </template>

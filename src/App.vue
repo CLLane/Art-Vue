@@ -2,6 +2,7 @@
   <div id="app">
     <div id="nav">
       <h1>Random Art With Vue</h1>
+      <router-link to="/about">About</router-link>
     </div>
     <router-view/>
   </div>
@@ -17,7 +18,7 @@
 }
 
 #nav {
-  padding: 20px;
+  padding: 30px;
 }
 
 #nav a {
